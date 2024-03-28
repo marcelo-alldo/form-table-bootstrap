@@ -6,8 +6,8 @@
 
 ### Desktop
 
-![image](https://github.com/marcelo-growdev/form-table-bootstrap/blob/main/src/images/screenshot-desktop.png)
+![image](https://github.com/marcelo-growdev/form-table-bootstrap/blob/main/src/assets/images/screenshot-desktop.png)
 
 ### Mobile
 
-![image](https://github.com/marcelo-growdev/form-table-bootstrap/blob/main/src/images/screenshot-mobile.png)
+![image](https://github.com/marcelo-growdev/form-table-bootstrap/blob/main/src/assets/images/screenshot-mobile.png)
